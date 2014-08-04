@@ -1878,3 +1878,51 @@ java.lang.NullPointerException
 
 !ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 15:43:42.482
 !MESSAGE No valid Android XML Editor Delegate found for file /MyFirstApp/AndroidManifest.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.797
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.798
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.798
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.799
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.799
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.799
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.800
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:46:00.800
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.578
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.582
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.582
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.583
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.584
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.585
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.585
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2014-08-04 17:48:19.586
+!MESSAGE NewXmlFile wizard: no data for target Android 4.4W, project MyFirstApp
